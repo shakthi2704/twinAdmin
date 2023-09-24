@@ -1,2 +1,3 @@
 import logoSm from "./logo-sm.png"
-export { logoSm }
+import logo from "./logo.png"
+export { logoSm, logo }
